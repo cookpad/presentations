@@ -1,5 +1,5 @@
 # Presentations
-The presentations of COOKPAD staffs for http://techlife.cookpad.com/presentations/
+The presentations of COOKPAD staff for http://techlife.cookpad.com/presentations/
 
 ## Usage
 1. Modify presentations.txt
