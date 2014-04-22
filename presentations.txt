@@ -7,6 +7,7 @@ http://www.slideshare.net/hotchpotch/ruby18
 http://www.slideshare.net/mirakui/20111102-rails-meetuptofu
 http://www.slideshare.net/mirakui/ss-8150494
 http://www.slideshare.net/schoowebcampus/20131225schoo
+http://www.slideshare.net/kani_b/cloudtrail
 https://speakerdeck.com/con_mame/aws-ec2-ecu-study
 https://speakerdeck.com/con_mame/loadbalance-using-internal-elb
 https://speakerdeck.com/con_mame/move-to-mysql5-dot-6
