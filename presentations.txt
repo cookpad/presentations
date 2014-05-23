@@ -15,6 +15,7 @@ https://speakerdeck.com/con_mame/redis-on-ec2
 https://speakerdeck.com/con_mame/redshift-is-not-only-dwh
 https://speakerdeck.com/con_mame/redshift-with-not-enterprise
 https://speakerdeck.com/con_mame/sns-mobilepush
+https://speakerdeck.com/con_mame/elasticache-for-redis-snapshot
 https://speakerdeck.com/hotchpotch/glitchkit
 https://speakerdeck.com/hotchpotch/kurautowoshi-tuta-yusaxiang-kesahisukai-fa-falsemian-bai-sa
 https://speakerdeck.com/hotchpotch/liao-li-wozhi-eruji-shu-2012
