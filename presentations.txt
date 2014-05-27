@@ -50,6 +50,7 @@ https://speakerdeck.com/sorah/guide-to-social-coding
 https://speakerdeck.com/takai/che-di-bi-jiao-siertowebxi-hakokogawei-u
 https://speakerdeck.com/takai/code-review-in-action
 https://speakerdeck.com/takai/continuous-delivery-in-cookpad
+https://speakerdeck.com/takai/cookpad-and-test-automation
 https://speakerdeck.com/takai/github-enterprise-integration-with-aws
 https://speakerdeck.com/takai/login-form-from-scratch
 https://speakerdeck.com/tikeda/sass-for-everydays-cooking
