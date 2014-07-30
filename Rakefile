@@ -13,15 +13,12 @@ desc "Put presentations.html to S3"
 task :release do
   path = './presentations.html'
   unless File.exist?(path)
-    $stderr.puts "run `rake generate` first"
-    exit 1
+    abort 'run `rake generate` first'
   end
   html = File.read(path)
 
   unless ENV['AWS_ACCESS_KEY_ID'] && ENV['AWS_SECRET_ACCESS_KEY']
-    $stderr.puts "Please set your ENV['AWS_ACCESS_KEY_ID'] and ENV['AWS_SECRET_ACCESS_KEY']"
-    $stderr.puts "or ask infra team."
-    exit 1
+    abort "Please set your ENV['AWS_ACCESS_KEY_ID'] and ENV['AWS_SECRET_ACCESS_KEY']\nor ask infra team."
   end
 
   require 'aws-sdk'
