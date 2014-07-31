@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>発表資料 | クックパッド開発者ブログ</title>
+<link rel='canonical' href='http://techlife.cookpad.com/presentations/' />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/011eb2ab5970baa52b9d7b94253addde?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/011eb2ab5970baa52b9d7b94253addde?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/09c04b621ed760c746467e3647d28935?s=114" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+body {
+    background: url('http://cookpadtech.files.wordpress.com/2013/01/body.png') top left repeat-x;
+    border-top: 3px solid orange;
+    color: #3c3c3c;
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica Neue', Helvetica, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+img {
+    border: none;
+}
+
+form,p {
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+a {
+    color: #4d2200;
+    text-decoration: none;
+}
+
+a.special {
+    color: #f48003;
+}
+
+a:visited {
+    color: #693e1c;
+}
+
+a:hover {
+    color: #80400e;
+    text-decoration: underline;
+}
+
+#wrap {
+    width: 970px;
+    margin: 0 auto;
+}
+
+#header {
+    height: 200px;
+    overflow: hidden;
+}
+
+#header h1 a {
+    background: url('http://cookpadtech.files.wordpress.com/2013/01/h1_bg.png') 0 50% no-repeat;
+    display: block;
+    padding: 60px 0 70px;
+    text-indent: -99999px;
+}
+
+#header h1 a:hover {
+    opacity: .8;
+}
+
+#header .description {
+    display: none;
+}
+
+#content {
+    float: left;
+    overflow: hidden;
+    width: 660px;
+}
+
+#sidebar {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 240px;
+    float: right;
+    overflow: hidden;
+}
+
+#footer {
+    clear: both;
+    text-align: right;
+    padding: 15px;
+    font-size: 10px;
+}
+
+.entry {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #dedede;
+    padding-bottom: 30px;
+    overflow: hidden;
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+.entry img {
+    max-width: 700px;
+    margin: 7px 0;
+}
+
+.entrytitle h2 {
+    color: #b06c1c;
+    font-size: 30px;
+    line-height: 1.35;
+}
+
+.entrytitle h2 a {
+    color: #b06c1c;
+}
+
+.entrytitle h3 {
+    font-weight: 400;
+    color: #9b8b6c;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.entrybody {
+    margin-top: 20px;
+}
+
+.entrybody a {
+    text-decoration: underline;
+}
+
+.entrybody h2,.entrybody h4 {
+    font-size: 24px;
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
+
+.entrybody h3,.entrybody h5 {
+    font-size: 18px;
+    margin: 25px 0 7px;
+    line-height: 1.5;
+}
+
+.entrybody h6 {
+    font-size: 18px;
+    margin: 7px 0 7px 15px;
+}
+
+.entrybody p {
+    margin-bottom: 17px;
+}
+
+.entrybody ul,.entrybody ol {
+    padding-left: 20px;
+    margin: 0 0 17px;
+}
+
+.entrybody ul li {
+    margin: 5px 0;
+    line-height: 1.7;
+}
+
+.entrybody pre {
+    background: #f9f5ee;
+    padding: 10px;
+    border: 3px solid #eae3d3;
+    line-height: 1.5;
+    overflow: auto;
+}
+
+.entrybody img {
+    border: 1px solid #f5f5f5;
+}
+
+.entrybody table {
+    border-collapse: collapse;
+    border: 1px solid #ebe3d1;
+}
+
+.entrybody table th,.entrybody table td {
+    padding: 3px 7px;
+    border: 1px solid #ebe3d1;
+}
+
+.entrybody table th {
+    text-align: left;
+    background: #fbf8f2;
+}
+
+.entrybody blockquote {
+    color: #888;
+    margin-left: 0;
+    padding: 5px 0 5px 15px;
+    border-left: 3px solid #eee;
+}
+
+.entrybody .syntaxhighlighter {
+    margin: 0!important;
+}
+
+.entrybody .syntaxhighlighter table code,.entrybody .syntaxhighlighter table td,.entrybody .syntaxhighlighter table tbody,.entrybody .syntaxhighlighter table tr {
+    font-size: 13px !important;
+}
+
+.entrybody .sharedaddy .sd-block {
+    text-align: left;
+    border-top: none !important;
+    margin-top: 15px;
+}
+
+.entrybody .sharedaddy .sd-content {
+    float: none !important;
+    width: auto;
+}
+
+.entrymeta {
+    display: none;
+}
+
+#sidebar ul {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-left: 0;
+    padding-left: 18px;
+}
+
+#sidebar ul li {
+    padding-bottom: 8px;
+}
+
+#sidebar h2 {
+    color: #b06c1c;
+    margin-top: 20px;
+    margin-bottom: 7px;
+}
+
+#sidebar img {
+    max-width: 240px;
+}
+
+#sidebar input {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    height: 24px;
+    margin: 0;
+    line-height: 1;
+    padding: 3px 6px;
+    font-size: 14px;
+}
+
+#sidebar .widget_search {
+    padding-top: 25px;
+}
+
+#sidebar input[type=text] {
+    width: 160px;
+}
+
+.navigation {
+    font-size: 14px;
+}
+
+.page-id-2063 .entry {
+    border-bottom: none;
+}
+
+.page-id-2063 #footer,.page-id-2063 #sidebar {
+    display: none;
+}
+
+.page-id-2063 #content {
+    width: 100%;
+}
+
+.entrybody .cookpad-slides-elements {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.entrybody .cookpad-slides-element {
+    border: solid 1px #ccc;
+    list-style-type: none;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.entrybody .cookpad-slides-image {
+    border: none;
+    width: 210px;
+    height: 157px;
+    margin: 0;
+    display: block;
+}
+</style>
+<meta name="description" content="クックパッドのエンジニアがサイトの開発と運営について書き綴ります" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="page page-id-2063 page-template-default logged-in admin-bar no-customize-support mp6 typekit-enabled highlander-enabled highlander-light">
+
+<div id="wrap">
+  <div id="header">
+    <h1><a href="http://techlife.cookpad.com/">クックパッド開発者ブログ</a></h1>
+    <p class="description">クックパッドのエンジニアがサイトの開発と運営について書き綴ります</p>
+      </div><!-- / #header -->
+
+  <div id="content">
+    <div class="post-2063 page type-page status-publish hentry entry entry-1" id="post-2063">
+      <div class="entrytitle">
+        <h2><a href="http://static.cookpad.com/techlife/presentations.html" rel="bookmark">発表資料</a></h2>
+      </div>
+      <div class="entrybody">
+<%= presentations %>
+      </div>
+    </div>
+  </div><!-- / #wrap -->
+</body>
+</html>
