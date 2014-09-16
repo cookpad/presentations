@@ -63,6 +63,7 @@ https://speakerdeck.com/tokorom/do-you-know-xctest-command
 https://speakerdeck.com/tokorom/downloadable-storyboards
 https://speakerdeck.com/tokorom/my-unit-test-environment-for-objective-c
 https://speakerdeck.com/y310/kibanaru-men
+https://speakerdeck.com/yoshiori/18-till-i-die
 https://speakerdeck.com/yoshiori/hacking-in-the-sky
 https://speakerdeck.com/yoshiori/how-we-cook-cookpad-dot-com
 https://speakerdeck.com/yoshiori/pu-falsezi-fen-zhan-lue
