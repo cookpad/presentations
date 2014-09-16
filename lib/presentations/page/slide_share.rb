@@ -8,7 +8,7 @@ module Presentations
       end
 
       def date
-        Time.parse(@document.search(".h-slideshow-created-at")[0].inner_text).to_date
+        Time.parse(@document.search("time[itemprop=datePublished]").attribute("datetime").value).to_date
       end
 
       def image_url
