@@ -50,6 +50,7 @@ https://speakerdeck.com/rejasupotaro/how-to-build-a-career-through-github-activi
 https://speakerdeck.com/robotvert/about-cookpad-2013-11
 https://speakerdeck.com/robotvert/pseudo-smt-at-cookpad
 https://speakerdeck.com/sorah/guide-to-social-coding
+https://speakerdeck.com/sorah/scalable-deployments-how-we-deploy-rails-app-to-150-plus-hosts-in-a-minute
 https://speakerdeck.com/takai/che-di-bi-jiao-siertowebxi-hakokogawei-u
 https://speakerdeck.com/takai/code-review-in-action
 https://speakerdeck.com/takai/continuous-delivery-in-cookpad
