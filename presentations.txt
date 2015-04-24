@@ -35,6 +35,7 @@ https://speakerdeck.com/mirakui/being-healthy-dev-and-ops-in-cookpad
 https://speakerdeck.com/mirakui/cookpads-deployment-and-auto-scaling
 https://speakerdeck.com/mirakui/high-performance-rails-long-edition
 https://speakerdeck.com/mirakui/quan-zi-dong-parametatiyuningusan
+https://speakerdeck.com/mrkn/amazon-machine-learning-woshi-tutemita
 https://speakerdeck.com/mrkn/chanko
 https://speakerdeck.com/mrkn/distributed-rspec
 https://speakerdeck.com/mrkn/how-to-make-easy-and-casual-ci-management-in-cookpad
