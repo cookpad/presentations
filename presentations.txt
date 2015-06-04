@@ -33,6 +33,7 @@ https://speakerdeck.com/kwappa/lgtm-way-to-take-a-communication-on-github
 https://speakerdeck.com/makimoto/recipes-of-recipe-search
 https://speakerdeck.com/makimoto/the-pragmatic-animated-gif-in-ruby-a-rubyconf-2013-lightning-talk
 https://speakerdeck.com/makimoto/the-pragmatic-glitch-number-rubykaigi-2013-lt
+https://speakerdeck.com/mirakui/developer-productivity-in-cookpad
 https://speakerdeck.com/mirakui/being-healthy-dev-and-ops-in-cookpad
 https://speakerdeck.com/mirakui/cookpads-deployment-and-auto-scaling
 https://speakerdeck.com/mirakui/high-performance-rails-long-edition
