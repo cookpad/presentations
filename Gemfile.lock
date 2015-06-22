@@ -46,3 +46,6 @@ DEPENDENCIES
   mechanize (= 2.7.3)
   pry
   rake (= 10.1.1)
+
+BUNDLED WITH
+   1.10.3
