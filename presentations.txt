@@ -13,6 +13,7 @@ http://www.slideshare.net/mirakui/20111102-rails-meetuptofu
 http://www.slideshare.net/mirakui/ss-8150494
 http://www.slideshare.net/schoowebcampus/20131225schoo
 http://www.slideshare.net/inohiro/ebi-sta
+http://www.slideshare.net/inohiro/github-study
 https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
 https://speakerdeck.com/con_mame/aws-ec2-ecu-study
 https://speakerdeck.com/con_mame/elasticache-for-redis-snapshot
