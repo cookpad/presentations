@@ -1,6 +1,9 @@
 http://www.slideshare.net/KazuMatsu/20141018-selenium-appiumcookpad
 http://www.slideshare.net/KazuMatsu/jasst-hokkaido-matsuo
 http://www.slideshare.net/KazuMatsu/jasst-tohoku-2015matsuo
+http://www.slideshare.net/KazuMatsu/20151213-system-test-automation-conference
+http://www.slideshare.net/KazuMatsu/20151126-cookpad-talktestengineer
+http://www.slideshare.net/KazuMatsu/20151021-cookpad-talktestengineer
 http://www.slideshare.net/abicky/ss-52441786
 http://www.slideshare.net/hotchpotch/2011rubykaigi-ree
 http://www.slideshare.net/hotchpotch/20120204fluent-logging
