@@ -33,6 +33,9 @@ https://speakerdeck.com/hotchpotch/kurautowoshi-tuta-yusaxiang-kesahisukai-fa-fa
 https://speakerdeck.com/hotchpotch/liao-li-wozhi-eruji-shu-2012
 https://speakerdeck.com/hotchpotch/pull-request-woli-yong-sitakai-fa-wakuhuro
 https://speakerdeck.com/katsuma/service-development-for-users
+https://speakerdeck.com/k0kubun/high-performance-template-engine
+https://speakerdeck.com/k0kubun/how-i-debugged-debugger-number-rubykaigi-1
+https://speakerdeck.com/k0kubun/railsapurikai-fa-huan-jing-falsegao-su-hua
 https://speakerdeck.com/kwappa/failure-teaches-success
 https://speakerdeck.com/kwappa/lgtm-way-to-take-a-communication-on-github
 https://speakerdeck.com/makimoto/recipes-of-recipe-search
