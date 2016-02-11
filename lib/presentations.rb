@@ -1,3 +1,4 @@
+require "presentations/cache"
 require "presentations/collector"
 require "presentations/fetcher"
 require "presentations/page/slide_share"

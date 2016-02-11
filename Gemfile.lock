@@ -46,6 +46,7 @@ PLATFORMS
 DEPENDENCIES
   aws-sdk (~> 1.0)
   mechanize (= 2.7.3)
+  nokogiri
   pry
   rake (= 10.1.1)
 

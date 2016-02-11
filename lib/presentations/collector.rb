@@ -10,14 +10,29 @@ module Presentations
 
     def collect
       @urls.inject([]) do |presentations, url|
-        sleep 1
-        case page = Presentations::Fetcher.fetch(url)
-        when nil
-          presentations
+        puts "=> #{url}"
+
+        page = case
+        when cached = cache.for(url)
+          puts " * Cached"
+          cached
         else
+          need_sleep = true
+          Presentations::Fetcher.fetch(url)
+        end
+
+        if page
           presentations << Presentation.new(url, page)
         end
+
+        sleep 1 if need_sleep
+
+        presentations
       end
+    end
+
+    def cache
+      @cache ||= Cache.new
     end
   end
 end
