@@ -17,7 +17,7 @@ module Presentations
       when has_speaker_deck_url?
         Presentations::Page::SpeackerDeck.new(get)
       when has_slide_share_url?
-        Presentations::Page::SlideShare.new(get)
+        Presentations::Page::SlideShare.new(@url)
       else
         warn "Unsupported URL: #@url"
         nil
