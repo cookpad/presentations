@@ -12,6 +12,7 @@ module Presentations
     end
 
     def fetch
+      puts "=> #@url"
       case
       when has_speaker_deck_url?
         Presentations::Page::SpeackerDeck.new(get)
