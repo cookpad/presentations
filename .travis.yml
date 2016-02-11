@@ -7,7 +7,7 @@ script:
 deploy:
   provider: s3
   region: 'ap-northeast-1'
-  bucket: "static-test.cookpad.com"
+  bucket: "static.cookpad.com"
   skip_cleanup: true
   local_dir: out
   upload_dir: techlife
