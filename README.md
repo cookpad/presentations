@@ -1,4 +1,7 @@
 # Presentations
+
+[![Build Status](https://travis-ci.org/cookpad/presentations.svg?branch=master)](https://travis-ci.org/cookpad/presentations)
+
 The presentations of Cookpad staff for http://static.cookpad.com/techlife/presentations.html
 
 ## Usage
