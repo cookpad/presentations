@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+- '2.3'
+script: bundle exec rake
+
+deploy:
+  provider: s3
+  bucket: "static-test.cookpad.com"
+  skip_cleanup: true
+  local_dir: out
+  upload_dir: techlife
+  secret_access_key:
+    secure: gD+SQ/V5X+fZc/qw8tzMpikeeWihNJ6lhXZr2tIWItIsHbiCztUAOhATN84hp26I4ecxRiKQ89TfP0XcG3EFXJRas+N2DjauaFL36NkZ5XMf6xWpPi7yxu+uaBsoLCpfy6/JxSnCiFtmrVvsHjgH0eX+LZB0JnR03IWbvTK6HL8=
+  access_key_id:
+    secure: jSv+8PGLg4HCJI/ss+XlSy7GQsiKAtrZj1S74MlXuEwtWIx6efitjQ5lScCe27aorw+A+divQhB6qfh/x/qRfwZsdtMXxfxmXVf7XnwgWe5dniM9mlZfGOfwEqAyyaQHBfHyz/AicGFJBM1l0IuH/T745jz0v79gmg5Wmh/t4Q8=

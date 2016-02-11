@@ -3,15 +3,21 @@ require "presentations"
 
 desc "Generate presentations.html from presentations.txt"
 task :generate do
-  urls = File.read("presentations.txt").split("\n")
-  output = File.open("presentations.html", "w")
+  FileUtils.mkdir_p './out'
+  FileUtils.remove_entry_secure './out/images' if File.exist?('./out/images')
+  FileUtils.cp_r './images', './out/images'
+
+  urls = File.readlines("presentations.txt").map(&:chomp)
   presentations = Presentations::Collector.collect(urls)
-  output.puts Presentations::View::Layout.render(presentations)
+
+  open("./out/presentations.html", "w") do |io|
+    io.puts Presentations::View::Layout.render(presentations)
+  end
 end
 
 desc "Put presentations.html to S3"
 task :release do
-  path = './presentations.html'
+  path = './out/presentations.html'
   unless File.exist?(path)
     abort 'run `rake generate` first'
   end
