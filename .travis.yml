@@ -2,7 +2,6 @@ language: ruby
 rvm:
 - '2.3.0'
 script:
-  - curl -v http://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016
   - bundle exec rake
 
 deploy:
