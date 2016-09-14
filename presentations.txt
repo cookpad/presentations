@@ -51,6 +51,7 @@ https://speakerdeck.com/k0kubun/high-performance-template-engine
 https://speakerdeck.com/k0kubun/how-i-debugged-debugger-number-rubykaigi-1
 https://speakerdeck.com/k0kubun/how-to-safely-upgrade-rails
 https://speakerdeck.com/k0kubun/railsapurikai-fa-huan-jing-falsegao-su-hua
+https://speakerdeck.com/k0kubun/scalable-job-queue-system-built-with-docker
 https://speakerdeck.com/kwappa/failure-teaches-success
 https://speakerdeck.com/kwappa/lgtm-way-to-take-a-communication-on-github
 https://speakerdeck.com/makimoto/recipes-of-recipe-search
