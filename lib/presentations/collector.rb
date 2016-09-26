@@ -13,7 +13,7 @@ module Presentations
         puts "=> #{url}"
 
         page = case
-        when cached = cache.for(url)
+        when ENV['IGNORE_CACHE'] != '1' && (cached = cache.for(url))
           puts " * Cached"
           cached
         else

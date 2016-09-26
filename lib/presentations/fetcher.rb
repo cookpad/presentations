@@ -13,9 +13,6 @@ module Presentations
 
     def fetch
       case
-      when cached_page = cache.for(@url)
-        cached_page
-        puts " * Cached"
       when has_speaker_deck_url?
         puts " * Fetching from SpeackerDeck"
         Presentations::Page::SpeackerDeck.new(get)
@@ -29,10 +26,6 @@ module Presentations
     end
 
     private
-
-    def cache
-      @cache ||= Cache.new
-    end
 
     def client
       @client ||= Mechanize.new
