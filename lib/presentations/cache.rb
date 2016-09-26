@@ -10,7 +10,7 @@ module Presentations
       attr_reader :url, :date, :image_url
     end
 
-    def initialize(url = 'http://static.cookpad.com/techlife/presentations.html')
+    def initialize(url = 'https://static.cookpad.com/techlife/presentations.html')
       @cache_url = url
       @html = Nokogiri::HTML(open(@cache_url, 'r', &:read))
     end
