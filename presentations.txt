@@ -48,6 +48,7 @@ https://speakerdeck.com/junharashima/r-and-d2015
 https://speakerdeck.com/junharashima/webdb-forum-2015
 https://speakerdeck.com/kanny/miao-jian-shu-mo-falseroguwoiigan-zinisuruakitekutiya
 https://speakerdeck.com/katsuma/service-development-for-users
+https://speakerdeck.com/k0kubun/evaluate-ruby-without-ruby
 https://speakerdeck.com/k0kubun/high-performance-template-engine
 https://speakerdeck.com/k0kubun/how-i-debugged-debugger-number-rubykaigi-1
 https://speakerdeck.com/k0kubun/how-to-safely-upgrade-rails
