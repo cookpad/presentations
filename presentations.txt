@@ -24,6 +24,7 @@ http://www.slideshare.net/mirakui/ss-8150494
 http://www.slideshare.net/schoowebcampus/20131225schoo
 http://www.slideshare.net/inohiro/ebi-sta
 http://www.slideshare.net/inohiro/github-study
+https://www.slideshare.net/KoichiSasada/ruby-24-internals
 https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
 https://speakerdeck.com/adorechic/how-cookpad-shifts-to-microservices
 https://speakerdeck.com/adorechic/how-microservices-are-linked-at-cookpad
