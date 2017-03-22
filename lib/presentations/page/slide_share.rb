@@ -26,7 +26,7 @@ module Presentations
       end
 
       def oembed
-        @oembed ||= JSON.parse(open("http://www.slideshare.net/api/oembed/2?url=#{URI.encode_www_form_component(@url)}&format=json", "r", &:read))
+        @oembed ||= JSON.parse(open("https://www.slideshare.net/api/oembed/2?url=#{URI.encode_www_form_component(@url)}&format=json", "r", &:read))
       end
     end
   end
