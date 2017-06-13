@@ -85,6 +85,7 @@ https://speakerdeck.com/rejasupotaro/fixture-replacement-for-android
 https://speakerdeck.com/rejasupotaro/how-to-build-a-career-through-github-activities
 https://speakerdeck.com/robotvert/about-cookpad-2013-11
 https://speakerdeck.com/robotvert/pseudo-smt-at-cookpad
+https://speakerdeck.com/slightair/campfire-ios-number-2
 https://speakerdeck.com/sorah/guide-to-social-coding
 https://speakerdeck.com/sorah/scalable-deployments-how-we-deploy-rails-app-to-150-plus-hosts-in-a-minute
 https://speakerdeck.com/sorah/acmesmith-http2study8
