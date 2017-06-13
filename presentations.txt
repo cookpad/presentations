@@ -119,3 +119,4 @@ https://speakerdeck.com/yoshiori/happy-video-transcoding-with-elastictranscoder
 https://speakerdeck.com/yoshiori/go-in-to-microservices-wip
 https://speakerdeck.com/yoshiori/how-we-cook-cookpad-dot-com-2016
 https://www.slideshare.net/ichiko_revjune/information-sharing-and-experience-consistency-at-cookpad-mobile-application
+https://speakerdeck.com/koba789/fei-tong-qi-ziyobutozhong-liang-kusuru
