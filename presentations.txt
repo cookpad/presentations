@@ -26,6 +26,7 @@ http://www.slideshare.net/inohiro/ebi-sta
 http://www.slideshare.net/inohiro/github-study
 https://www.slideshare.net/KoichiSasada/ruby-24-internals
 https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith
+https://speakerdeck.com/aamine/cookpad-techkitchen-number-8-breaking-batchjobs-beautifully
 https://speakerdeck.com/adorechic/how-cookpad-shifts-to-microservices
 https://speakerdeck.com/adorechic/how-microservices-are-linked-at-cookpad
 https://speakerdeck.com/ayemos/build-image-classification-service-with-amazon-ecs-and-gpu-instances
