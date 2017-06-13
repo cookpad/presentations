@@ -88,6 +88,8 @@ https://speakerdeck.com/robotvert/pseudo-smt-at-cookpad
 https://speakerdeck.com/sorah/guide-to-social-coding
 https://speakerdeck.com/sorah/scalable-deployments-how-we-deploy-rails-app-to-150-plus-hosts-in-a-minute
 https://speakerdeck.com/sorah/acmesmith-http2study8
+https://speakerdeck.com/sorah/building-infrastructure-for-our-global-service
+https://speakerdeck.com/sorah/keynote-oedo-rubykaigi-06
 https://speakerdeck.com/taiki45/cookpad-and-microservices
 https://speakerdeck.com/takai/che-di-bi-jiao-siertowebxi-hakokogawei-u
 https://speakerdeck.com/takai/code-review-in-action
