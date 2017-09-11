@@ -29,6 +29,7 @@ https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monoli
 https://speakerdeck.com/aamine/cookpad-techkitchen-number-8-breaking-batchjobs-beautifully
 https://speakerdeck.com/adorechic/how-cookpad-shifts-to-microservices
 https://speakerdeck.com/adorechic/how-microservices-are-linked-at-cookpad
+https://speakerdeck.com/ayemos/machine-learning-and-data-reproducibility
 https://speakerdeck.com/ayemos/build-image-classification-service-with-amazon-ecs-and-gpu-instances
 https://speakerdeck.com/ayemos/machine-learning-ops-at-cookpad-1
 https://speakerdeck.com/ayemos/make-your-data-grab-and-go
