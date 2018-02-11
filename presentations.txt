@@ -1,4 +1,5 @@
 http://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016
+https://www.slideshare.net/KazuMatsu/cookpadtechcond2018mobiletestautomation
 https://www.slideshare.net/KazuMatsu/20170302-tryswift-tastingtests
 http://www.slideshare.net/KazuMatsu/20160216-devsumi-cookpad-matsuo
 http://www.slideshare.net/KazuMatsu/20141018-selenium-appiumcookpad
