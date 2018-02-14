@@ -128,3 +128,4 @@ https://speakerdeck.com/koba789/fei-tong-qi-ziyobutozhong-liang-kusuru
 https://speakerdeck.com/juanitofatas/data-migration-with-confidence
 https://speakerdeck.com/sorah/fastly-in-cookpad
 https://speakerdeck.com/takanabe/challenges-for-global-service-from-a-perspective-of-sre
+https://speakerdeck.com/spicycoffee/systematic-service-development-at-cookpad
