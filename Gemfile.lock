@@ -1,17 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    aws-sdk (1.66.0)
-      aws-sdk-v1 (= 1.66.0)
-    aws-sdk-v1 (1.66.0)
-      json (~> 1.4)
-      nokogiri (>= 1.4.4)
-    coderay (1.1.0)
-    domain_name (0.5.20160128)
+    coderay (1.1.2)
+    domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
-    http-cookie (1.0.2)
+    http-cookie (1.0.3)
       domain_name (~> 0.5)
-    json (1.8.3)
     mechanize (2.7.3)
       domain_name (~> 0.5, >= 0.5.1)
       http-cookie (~> 1.0)
@@ -21,34 +15,31 @@ GEM
       nokogiri (~> 1.4)
       ntlm-http (~> 0.1, >= 0.1.1)
       webrobots (>= 0.0.9, < 0.2)
-    method_source (0.8.2)
-    mime-types (2.99)
+    method_source (0.9.0)
+    mime-types (2.99.3)
     mini_portile2 (2.3.0)
-    net-http-digest_auth (1.4)
+    net-http-digest_auth (1.4.1)
     net-http-persistent (2.9.4)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     ntlm-http (0.1.1)
-    pry (0.10.3)
+    pry (0.11.3)
       coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
+      method_source (~> 0.9.0)
     rake (10.1.1)
-    slop (3.6.0)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.7.2)
+    unf_ext (0.0.7.5)
     webrobots (0.1.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-sdk (~> 1.0)
   mechanize (= 2.7.3)
   nokogiri
   pry
   rake (= 10.1.1)
 
 BUNDLED WITH
-   1.16.0
+   1.16.1

@@ -130,3 +130,7 @@ https://speakerdeck.com/sorah/fastly-in-cookpad
 https://speakerdeck.com/takanabe/challenges-for-global-service-from-a-perspective-of-sre
 https://speakerdeck.com/spicycoffee/systematic-service-development-at-cookpad
 https://speakerdeck.com/shinsuke_imai/cookpad-storetv-kutukupatudochu-falsehadoueakai-fa
+https://speakerdeck.com/hokaccha/roguwohuo-yong-sitasabisukai-fa
+https://speakerdeck.com/hokaccha/engineers-output-and-recruiting
+https://speakerdeck.com/taiki45/observability-service-mesh-and-microservices
+https://speakerdeck.com/pocke/a-parser-based-syntax-highlighter
