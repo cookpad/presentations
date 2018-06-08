@@ -8,7 +8,7 @@ module Presentations
       end
 
       def date
-        Time.parse(@document.search("mark")[0].inner_text).to_date
+        Time.parse(@document.search(".deck-meta .text-muted")[0].inner_text).to_date
       end
 
       def image_url
