@@ -136,3 +136,5 @@ https://speakerdeck.com/taiki45/observability-service-mesh-and-microservices
 https://speakerdeck.com/pocke/a-parser-based-syntax-highlighter
 https://speakerdeck.com/hogelog/kutukupatudofalseju-da-rails-apurikesiyonfalsegai-shan
 https://speakerdeck.com/taiki45/building-and-operating-service-mesh-at-mid-size-company
+https://speakerdeck.com/kenju/frontend-re-architecture-of-a-decade-old-rails-app
+https://speakerdeck.com/lchin/database-performance-for-ruby-on-rails-applications
