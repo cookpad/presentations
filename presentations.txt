@@ -139,3 +139,4 @@ https://speakerdeck.com/taiki45/building-and-operating-service-mesh-at-mid-size-
 https://speakerdeck.com/kenju/frontend-re-architecture-of-a-decade-old-rails-app
 https://speakerdeck.com/lchin/database-performance-for-ruby-on-rails-applications
 https://speakerdeck.com/takanabe/challenges-for-global-service-from-a-perspective-of-sre-2nd-season
+https://speakerdeck.com/shinsuke_imai/reliable-label-printer-system
